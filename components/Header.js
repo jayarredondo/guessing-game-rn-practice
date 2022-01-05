@@ -22,6 +22,7 @@ const styles = StyleSheet.create({
  },
  headerTitle: {
   color: 'black',
+  fontFamily: 'open-sans-bold',
   fontSize: 18,
  },
 });
